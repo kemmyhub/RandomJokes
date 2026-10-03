@@ -44,7 +44,7 @@ A professional, full-stack random joke generator with favorites functionality, A
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kemmyhub/RandomJokes.git
    cd RandomJokes
    ```
 
