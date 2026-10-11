@@ -23,7 +23,7 @@
     "type": "twopart",
     "setup": "What do you call a fake noodle?",
     "delivery": "An impasta!",
-    "category": "food"
+    "category": "dad"
   },
   {
     "id": 5,
@@ -35,7 +35,7 @@
     "id": 6,
     "type": "twopart",
     "setup": "Why don't programmers like nature?",
-    "delivery": "It has too many bugs!",
+    "delivery": "It has too many bugs and no dark mode!",
     "category": "programming"
   },
   {
@@ -49,19 +49,118 @@
     "type": "twopart",
     "setup": "How does a penguin build its house?",
     "delivery": "Igloos it together!",
-    "category": "animals"
+    "category": "dad"
   },
   {
     "id": 9,
     "type": "single",
     "joke": "Why did the scarecrow win an award? He was outstanding in his field!",
-    "category": "general"
+    "category": "dad"
   },
   {
     "id": 10,
     "type": "twopart",
     "setup": "What did the ocean say to the beach?",
     "delivery": "Nothing, it just waved!",
-    "category": "nature"
+    "category": "general"
+  },
+  {
+    "id": 11,
+    "type": "twopart",
+    "setup": "There are only 10 types of people in the world:",
+    "delivery": "Those who understand binary, and those who don't.",
+    "category": "programming"
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "joke": "A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'",
+    "category": "programming"
+  },
+  {
+    "id": 13,
+    "type": "twopart",
+    "setup": "Why do Java developers wear glasses?",
+    "delivery": "Because they don't C#!",
+    "category": "programming"
+  },
+  {
+    "id": 14,
+    "type": "twopart",
+    "setup": "What's the best thing about Switzerland?",
+    "delivery": "I don't know, but the flag is a huge plus.",
+    "category": "dad"
+  },
+  {
+    "id": 15,
+    "type": "single",
+    "joke": "Schrödinger's cat walks into a bar... and doesn't.",
+    "category": "science"
+  },
+  {
+    "id": 16,
+    "type": "twopart",
+    "setup": "Why was the JavaScript developer sad?",
+    "delivery": "Because they didn't Node how to Express themselves.",
+    "category": "programming"
+  },
+  {
+    "id": 17,
+    "type": "single",
+    "joke": "To understand recursion, you must first understand recursion.",
+    "category": "programming"
+  },
+  {
+    "id": 18,
+    "type": "twopart",
+    "setup": "How do you comfort a JavaScript bug?",
+    "delivery": "You console it.",
+    "category": "programming"
+  },
+  {
+    "id": 19,
+    "type": "single",
+    "joke": "Time flies like an arrow. Fruit flies like a banana.",
+    "category": "dad"
+  },
+  {
+    "id": 20,
+    "type": "twopart",
+    "setup": "Why do programmers prefer dark mode?",
+    "delivery": "Because light attracts bugs.",
+    "category": "programming"
+  },
+  {
+    "id": 21,
+    "type": "twopart",
+    "setup": "What is an astronaut's favorite key on the keyboard?",
+    "delivery": "The Space bar.",
+    "category": "science"
+  },
+  {
+    "id": 22,
+    "type": "single",
+    "joke": "There are two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+    "category": "programming"
+  },
+  {
+    "id": 23,
+    "type": "twopart",
+    "setup": "Why did the developer go broke?",
+    "delivery": "Because they used up all their cache.",
+    "category": "programming"
+  },
+  {
+    "id": 24,
+    "type": "single",
+    "joke": "A programmer's wife tells him: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' He comes back with 12 loaves of bread.",
+    "category": "programming"
+  },
+  {
+    "id": 25,
+    "type": "twopart",
+    "setup": "Why did the physics teacher break up with the biology teacher?",
+    "delivery": "There was no chemistry.",
+    "category": "science"
   }
 ]
